@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(3.0.1.3.2D_Objects_20.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  HW2_20171646.cpp
+C:\Users\qkrxo\source\repos\3.0.1.3.2D_Objects_20\3.0.1.3.2D_Objects_20\HW2_20171646.cpp(46,27): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\qkrxo\source\repos\3.0.1.3.2D_Objects_20\3.0.1.3.2D_Objects_20\HW2_20171646.cpp(50,27): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\qkrxo\source\repos\3.0.1.3.2D_Objects_20\3.0.1.3.2D_Objects_20\HW2_20171646.cpp(452,76): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\qkrxo\source\repos\3.0.1.3.2D_Objects_20\3.0.1.3.2D_Objects_20\HW2_20171646.cpp(453,85): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\qkrxo\source\repos\3.0.1.3.2D_Objects_20\3.0.1.3.2D_Objects_20\HW2_20171646.cpp(455,97): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\qkrxo\source\repos\3.0.1.3.2D_Objects_20\3.0.1.3.2D_Objects_20\HW2_20171646.cpp(809,17): warning C4101: 'delx' :참조되지 않은 지역 변수입니다.
+C:\Users\qkrxo\source\repos\3.0.1.3.2D_Objects_20\3.0.1.3.2D_Objects_20\HW2_20171646.cpp(809,14): warning C4101: 's' :참조되지 않은 지역 변수입니다.
+C:\Users\qkrxo\source\repos\3.0.1.3.2D_Objects_20\3.0.1.3.2D_Objects_20\HW2_20171646.cpp(809,8): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+C:\Users\qkrxo\source\repos\3.0.1.3.2D_Objects_20\3.0.1.3.2D_Objects_20\HW2_20171646.cpp(809,29): warning C4101: 'dels' :참조되지 않은 지역 변수입니다.
+C:\Users\qkrxo\source\repos\3.0.1.3.2D_Objects_20\3.0.1.3.2D_Objects_20\HW2_20171646.cpp(809,11): warning C4101: 'r' :참조되지 않은 지역 변수입니다.
+C:\Users\qkrxo\source\repos\3.0.1.3.2D_Objects_20\3.0.1.3.2D_Objects_20\HW2_20171646.cpp(809,23): warning C4101: 'delr' :참조되지 않은 지역 변수입니다.
+C:\Users\qkrxo\source\repos\3.0.1.3.2D_Objects_20\3.0.1.3.2D_Objects_20\HW2_20171646.cpp(1127,35): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  3.0.1.3.2D_Objects_20.vcxproj -> C:\Users\qkrxo\source\repos\3.0.1.3.2D_Objects_20\Debug\3.0.1.3.2D_Objects_20.exe

@@ -1,0 +1,11 @@
+﻿  3.0.1.3.2D_Objects_20.cpp
+C:\Users\syihm\Desktop\Work\Teaching\CSE4170\OpenGL_Codes\3.0.1.3.2D_Objects_20\3.0.1.3.2D_Objects_20\3.0.1.3.2D_Objects_20.cpp(778,76): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\syihm\Desktop\Work\Teaching\CSE4170\OpenGL_Codes\3.0.1.3.2D_Objects_20\3.0.1.3.2D_Objects_20\3.0.1.3.2D_Objects_20.cpp(779,85): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\syihm\Desktop\Work\Teaching\CSE4170\OpenGL_Codes\3.0.1.3.2D_Objects_20\3.0.1.3.2D_Objects_20\3.0.1.3.2D_Objects_20.cpp(781,97): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\syihm\Desktop\Work\Teaching\CSE4170\OpenGL_Codes\3.0.1.3.2D_Objects_20\3.0.1.3.2D_Objects_20\3.0.1.3.2D_Objects_20.cpp(1034,35): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  LoadShaders.cpp
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 88 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  3.0.1.3.2D_Objects_20.vcxproj -> C:\Users\syihm\Desktop\Work\Teaching\CSE4170\OpenGL_Codes\3.0.1.3.2D_Objects_20\x64\Release\3.0.1.3.2D_Objects_20.exe

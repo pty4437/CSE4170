@@ -1,0 +1,37 @@
+﻿  LoadShaders.cpp
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-1학기\기초컴퓨터그래픽스\과제\5차 과제\4.0.1.3D_Objects_Anim_20\Tiger_Texture_PS_GLSL\Shaders\LoadShaders.cpp(11,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Tiger_Texture_PS_GLSL.cpp
+C:\usr\local\OpenGL\include\FreeImage\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-1학기\기초컴퓨터그래픽스\과제\5차 과제\4.0.1.3D_Objects_Anim_20\Tiger_Texture_PS_GLSL\Tiger_Texture_PS_GLSL.cpp(868,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-1학기\기초컴퓨터그래픽스\과제\5차 과제\4.0.1.3D_Objects_Anim_20\Tiger_Texture_PS_GLSL\Tiger_Texture_PS_GLSL.cpp(942,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-1학기\기초컴퓨터그래픽스\과제\5차 과제\4.0.1.3D_Objects_Anim_20\Tiger_Texture_PS_GLSL\Tiger_Texture_PS_GLSL.cpp(1016,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-1학기\기초컴퓨터그래픽스\과제\5차 과제\4.0.1.3D_Objects_Anim_20\Tiger_Texture_PS_GLSL\Tiger_Texture_PS_GLSL.cpp(1073,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-1학기\기초컴퓨터그래픽스\과제\5차 과제\4.0.1.3D_Objects_Anim_20\Tiger_Texture_PS_GLSL\Tiger_Texture_PS_GLSL.cpp(1147,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-1학기\기초컴퓨터그래픽스\과제\5차 과제\4.0.1.3D_Objects_Anim_20\Tiger_Texture_PS_GLSL\Tiger_Texture_PS_GLSL.cpp(1221,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-1학기\기초컴퓨터그래픽스\과제\5차 과제\4.0.1.3D_Objects_Anim_20\Tiger_Texture_PS_GLSL\Tiger_Texture_PS_GLSL.cpp(1281,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-1학기\기초컴퓨터그래픽스\과제\5차 과제\4.0.1.3D_Objects_Anim_20\Tiger_Texture_PS_GLSL\Tiger_Texture_PS_GLSL.cpp(1340,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-1학기\기초컴퓨터그래픽스\과제\5차 과제\4.0.1.3D_Objects_Anim_20\Tiger_Texture_PS_GLSL\Tiger_Texture_PS_GLSL.cpp(1879,30): warning C4244: '=': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-1학기\기초컴퓨터그래픽스\과제\5차 과제\4.0.1.3D_Objects_Anim_20\Tiger_Texture_PS_GLSL\Tiger_Texture_PS_GLSL.cpp(1880,39): warning C4244: '=': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-1학기\기초컴퓨터그래픽스\과제\5차 과제\4.0.1.3D_Objects_Anim_20\Tiger_Texture_PS_GLSL\Tiger_Texture_PS_GLSL.cpp(1881,37): warning C4244: '=': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-1학기\기초컴퓨터그래픽스\과제\5차 과제\4.0.1.3D_Objects_Anim_20\Tiger_Texture_PS_GLSL\Tiger_Texture_PS_GLSL.cpp(1883,35): warning C4244: '=': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-1학기\기초컴퓨터그래픽스\과제\5차 과제\4.0.1.3D_Objects_Anim_20\Tiger_Texture_PS_GLSL\Tiger_Texture_PS_GLSL.cpp(1884,28): warning C4244: '=': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-1학기\기초컴퓨터그래픽스\과제\5차 과제\4.0.1.3D_Objects_Anim_20\Tiger_Texture_PS_GLSL\Tiger_Texture_PS_GLSL.cpp(1885,21): warning C4244: '=': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-1학기\기초컴퓨터그래픽스\과제\5차 과제\4.0.1.3D_Objects_Anim_20\Tiger_Texture_PS_GLSL\Tiger_Texture_PS_GLSL.cpp(1886,30): warning C4244: '=': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-1학기\기초컴퓨터그래픽스\과제\5차 과제\4.0.1.3D_Objects_Anim_20\Tiger_Texture_PS_GLSL\Tiger_Texture_PS_GLSL.cpp(1887,33): warning C4244: '=': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-1학기\기초컴퓨터그래픽스\과제\5차 과제\4.0.1.3D_Objects_Anim_20\Tiger_Texture_PS_GLSL\Tiger_Texture_PS_GLSL.cpp(1889,32): warning C4244: '=': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-1학기\기초컴퓨터그래픽스\과제\5차 과제\4.0.1.3D_Objects_Anim_20\Tiger_Texture_PS_GLSL\Tiger_Texture_PS_GLSL.cpp(2030,35): warning C4305: '+=': 'double'에서 'T'(으)로 잘립니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-1학기\기초컴퓨터그래픽스\과제\5차 과제\4.0.1.3D_Objects_Anim_20\Tiger_Texture_PS_GLSL\Tiger_Texture_PS_GLSL.cpp(2039,35): warning C4305: '-=': 'double'에서 'T'(으)로 잘립니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-1학기\기초컴퓨터그래픽스\과제\5차 과제\4.0.1.3D_Objects_Anim_20\Tiger_Texture_PS_GLSL\Tiger_Texture_PS_GLSL.cpp(2138,48): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-1학기\기초컴퓨터그래픽스\과제\5차 과제\4.0.1.3D_Objects_Anim_20\Tiger_Texture_PS_GLSL\Tiger_Texture_PS_GLSL.cpp(2141,43): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-1학기\기초컴퓨터그래픽스\과제\5차 과제\4.0.1.3D_Objects_Anim_20\Tiger_Texture_PS_GLSL\Tiger_Texture_PS_GLSL.cpp(2144,48): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-1학기\기초컴퓨터그래픽스\과제\5차 과제\4.0.1.3D_Objects_Anim_20\Tiger_Texture_PS_GLSL\Tiger_Texture_PS_GLSL.cpp(2147,43): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  Tiger_Texture_PS_GLSL.vcxproj -> C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-1학기\기초컴퓨터그래픽스\과제\5차 과제\4.0.1.3D_Objects_Anim_20\Debug\Tiger_Texture_PS_GLSL.exe

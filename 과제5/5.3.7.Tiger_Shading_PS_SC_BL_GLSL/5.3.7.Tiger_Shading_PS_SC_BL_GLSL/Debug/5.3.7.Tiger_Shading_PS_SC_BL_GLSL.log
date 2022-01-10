@@ -1,0 +1,6 @@
+﻿  5.3.7.Tiger_Shading_PS_SC_BL_GLSL.cpp
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-1학기\기초컴퓨터그래픽스\과제\5차 과제\5.3.7.Tiger_Shading_PS_SC_BL_GLSL\5.3.7.Tiger_Shading_PS_SC_BL_GLSL\5.3.7.Tiger_Shading_PS_SC_BL_GLSL.cpp(145,44): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  LoadShaders.cpp
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-1학기\기초컴퓨터그래픽스\과제\5차 과제\5.3.7.Tiger_Shading_PS_SC_BL_GLSL\5.3.7.Tiger_Shading_PS_SC_BL_GLSL\Shaders\LoadShaders.cpp(11,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...
+  5.3.7.Tiger_Shading_PS_SC_BL_GLSL.vcxproj -> C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-1학기\기초컴퓨터그래픽스\과제\5차 과제\5.3.7.Tiger_Shading_PS_SC_BL_GLSL\Debug\5.3.7.Tiger_Shading_PS_SC_BL_GLSL.exe
